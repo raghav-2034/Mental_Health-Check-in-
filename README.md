@@ -2,6 +2,7 @@
 
 A comprehensive web application designed to support mental wellness through various tools and resources. This platform provides users with meditation guides, mood tracking, stress assessment, community support, and personalized wellness activities.
 
+you can verify the website using the following link : https://lovely-seahorse-1b63ce.netlify.app/
 ## 🌟 Features
 
 ### Core Functionality
